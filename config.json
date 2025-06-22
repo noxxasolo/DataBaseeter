@@ -1,4 +1,3 @@
 {
-  "statusmaintenance": true,
-  "forcebypass": []
+  "maintenance": false
 }
