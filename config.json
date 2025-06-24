@@ -1,5 +1,10 @@
 {
-  "maintenance": false,
-  "bypass": [7681171661, 987654321],
-  "owners": [7681171661]
+  "maintenance": true,
+  "bypass": [
+    7681171661,
+    987654321
+  ],
+  "owners": [
+    7681171661
+  ]
 }
