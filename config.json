@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "bypass": [
     7681171661,
     987654321
